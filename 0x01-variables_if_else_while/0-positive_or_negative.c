@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 #include <stdlib.h>
 #include <time.h>
 
@@ -6,8 +8,6 @@
  * Return: Always (Succes)
  *
  */
-
-/*(if number is positive, zero, or negative} */
 
 int main(void)
 
@@ -18,15 +18,16 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
 	{
-		printf("%d is positive\n" n);
+	printf("n is positive\n");
 	}
-	else if (n -- 0)
+	else if (n == 0)
 	{
-		printf("%d is zero\n");
+	printf("n is zero\n");
 	}
-	else 
+	else if (n < 0)
 	{
-		printf("%d is negative\n");
+	printf("n is negative\n");
+	}
 
-	return (0);
+	return 0;
 }
