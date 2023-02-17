@@ -3,6 +3,11 @@
 #include <stdlib.h>
 #include <time.h>
 
+/*main - prints if number is positive, zero or negative
+ * Return Always (Succes)
+ *
+ *
+ */
 
 int main(void)
 
