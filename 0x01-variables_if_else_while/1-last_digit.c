@@ -7,7 +7,7 @@
  *main - prints The string Last digit of, followed by
  *n, followed by
  *the string is, followed by
- **/
+ */
 
 /* This is the main description */
 int main(void)
