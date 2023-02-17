@@ -9,7 +9,7 @@
  *the string is, followed by
 */
 
-/* function main returning - The string, last digit of, followed */
+/* function main - memcpy  The string, last digit of, followed */
 int main(void)
 {
 int n = 98;
