@@ -10,7 +10,6 @@
  */
 
 int main(void)
-Return: (0)
 
 {
 int n = 98;
