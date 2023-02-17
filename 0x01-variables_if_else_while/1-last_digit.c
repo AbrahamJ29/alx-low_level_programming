@@ -9,7 +9,7 @@
  *the string is, followed by
 */
 
-/*main - The string, last digit of, followed */
+/*function returning - The string, last digit of, followed */
 int main(void)
 {
 int n = 98;
