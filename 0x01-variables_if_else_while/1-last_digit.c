@@ -8,7 +8,7 @@
  *n, followed by
  *the string is, followed by
  */
-Return: Always (Succes)
+
 int main(void)
 
 {
