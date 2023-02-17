@@ -3,13 +3,11 @@
 #include <stdlib.h>
 #include <time.h>
 
-/**
+/*
  *main - prints The string Last digit of, followed by
  *n, followed by
  *the string is, followed by
- */
-
-/* This is the main description */
+*/
 int main(void)
 {
 int n = 98;
