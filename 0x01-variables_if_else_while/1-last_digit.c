@@ -21,7 +21,7 @@ int main(void)
         }
         else if (n == 0)
         {
-        printf("n is zero\n");
+        printf("Last digit of 98 is 0 and is 0");
         }
         else if (n < 6)
         {
