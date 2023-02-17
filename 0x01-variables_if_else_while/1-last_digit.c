@@ -7,8 +7,9 @@
  *main - prints The string Last digit of, followed by
  *n, followed by
  *the string is, followed by
- */
+ **/
 
+/* This is the main description */
 int main(void)
 {
 int n = 98;
@@ -28,5 +29,5 @@ else if (l < 6)
 {
 printf("Last digit of %d is %d and is less than 6 and not 0\n", n, l);
 }
-return 0;
+return (0);
 }
