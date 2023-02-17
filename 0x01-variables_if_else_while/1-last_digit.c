@@ -3,13 +3,12 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*
- *main - prints The string Last digit of, followed by
- *n, followed by
- *the string is, followed by
-*/
+/**
+ *main - Prints a text according number
+ *Return: Always (Success)
+ *
+ */
 
-/* function main - memcpy  The string, last digit of, followed */
 int main(void)
 {
 int n = 98;
