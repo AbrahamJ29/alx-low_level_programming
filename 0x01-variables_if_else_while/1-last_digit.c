@@ -10,7 +10,7 @@
  */
 
 int main(void)
-int main(l)
+
 {
 int n = 98;
 int l = 0;
