@@ -13,7 +13,7 @@ int main(void)
 	_putchar(r + '0');
 	r = _isalpha('o');
 	_putchar(r + '0');
-	r = _isalpha(108);
+	r = _isalpha(10#8);
 	_putchar(r + '0');
 	r = _isalpha(';');
 	_putchar(r + '0');
