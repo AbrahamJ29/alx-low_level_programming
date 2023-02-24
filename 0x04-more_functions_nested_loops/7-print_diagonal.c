@@ -3,7 +3,7 @@
 /**
  * print_diagonal - Draws diagonal lines according parameter
  * @n: The number of lines to draw
- * Return: emoty
+ * Return: empty
  */
 
 void print_diagonal(int n)
