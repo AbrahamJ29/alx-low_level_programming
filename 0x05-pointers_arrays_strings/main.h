@@ -10,7 +10,7 @@ void _puts(char *str);
 
 void print_rev(char *s);
 
-void _puts2(char *str);
+void puts2(char *str);
 
 void put_half(char *str);
 
