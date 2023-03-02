@@ -5,9 +5,10 @@
  * main - check the code
  *
  * Return: Always 0.
+ *
  */
-int main(void)
 
+int main(void)
 {
     char str[] = "Look up!\n";
     char *ptr;
