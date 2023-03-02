@@ -7,6 +7,7 @@
  */
 
 char *leet(char *n)
+
 {
 	int i, j;
 	char s1[] = "aAEeoOtTlL";
@@ -22,5 +23,5 @@ char *leet(char *n)
 	}
 	}
 	}
-	return (n);	
-}		
+	return (n);
+}
